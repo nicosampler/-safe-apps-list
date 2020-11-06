@@ -1,0 +1,87 @@
+{
+  "safe-apps-list": [
+    {
+      "name": "1inch",
+      "url": "https://ipfs.io/ipfs/QmUDTSghr154kCCGguyA3cbG5HRVd2tQgNR7yD69bcsjm5",
+      "disabled": false,
+      "networks": [1]
+    },
+    {
+      "name": "Aave",
+      "url": "https://ipfs.io/ipfs/QmY1MUZo44UkT8EokYHs7xDvWEziYSn7n3c4ojVB6qo3SM",
+      "disabled": false,
+      "networks": [1]
+    },
+
+    {
+      "name": "Balancer Exchange",
+      "url": "https://ipfs.io/ipfs/QmfPLXne1UrY399RQAcjD1dmBhQrPGZWgp311CDLLW3VTn",
+      "disabled": false,
+      "networks": [1]
+    },
+    {
+      "name": "Balancer Pool",
+      "url": "https://ipfs.io/ipfs/QmaTucdZYLKTqaewwJduVMM8qfCDhyaEqjd8tBNae26K1J",
+      "disabled": false,
+      "networks": [1]
+    },
+
+    {
+      "name": "Compound",
+      "url": "${gnosisAppsUrl}/compound",
+      "disabled": false,
+      "networks": [1, 4]
+    },
+
+    {
+      "name": "Idle",
+      "url": "https://ipfs.io/ipfs/QmZ3oug89a3BaVqdJrJEA8CKmLF4M8snuAnphR6z1yq8V8",
+      "disabled": false,
+      "networks": [1, 4]
+    },
+
+    {
+      "name": "Idle",
+      "url": "https://ipfs.io/ipfs/QmTBBaiDQyGa17DJ7DdviyHbc51fTVgf6Z5PW5w2YUTkgR",
+      "disabled": false,
+      "networks": [1]
+    },
+
+    {
+      "name": "Sablier",
+      "url": "https://ipfs.io/ipfs/QmboeZ9bae26Skg5xskCsXWjJuLjYk7aHgPh4BAnfRBDgo",
+      "disabled": false,
+      "networks": [1, 4]
+    },
+    {
+      "name": "Synthetix",
+      "url": "https://ipfs.io/ipfs/QmXLxxczMH4MBEYDeeN9zoiHDzVkeBmB5rBjA3UniPEFcA",
+      "disabled": false,
+      "networks": [1, 4]
+    },
+    {
+      "name": "OpenZeppelin",
+      "url": "https://ipfs.io/ipfs/QmQovvfYYMUXjZfNbysQDUEXR8nr55iJRwcYgJQGJR7KEA",
+      "disabled": false,
+      "networks": [1, 4]
+    },
+    {
+      "name": "Tx-Builder",
+      "url": "${gnosisAppsUrl}/tx-builder",
+      "disabled": false,
+      "networks": [1, 4, 246, 73799, 100]
+    },
+    {
+      "name": "Wallet-Connect",
+      "url": "${gnosisAppsUrl}/walletConnect",
+      "disabled": false,
+      "networks": [1, 4, 246, 73799, 100]
+    },
+    {
+      "name": "Yearn Vaults",
+      "url": "https://ipfs.io/ipfs/Qme9HuPPhgCtgfj1CktvaDKhTesMueGCV2Kui1Sqna3Xs9",
+      "disabled": false,
+      "networks": [1]
+    }
+  ]
+}
