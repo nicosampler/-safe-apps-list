@@ -1,5 +1,6 @@
 {
-  "safe-apps-list": [
+  "name": "Gnosis Safe apps list",
+  "safeAppsList": [
     {
       "name": "1inch",
       "url": "https://ipfs.io/ipfs/QmUDTSghr154kCCGguyA3cbG5HRVd2tQgNR7yD69bcsjm5",
